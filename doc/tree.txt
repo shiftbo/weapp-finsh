@@ -1,0 +1,20 @@
+.
+├── doc
+├── miniprogram
+│   ├── app.js
+│   ├── app.json
+│   ├── app.ts
+│   ├── app.wxss
+│   ├── components
+│   ├── image
+│   ├── pages
+│   ├── sitemap.json
+│   └── utils
+├── package.json
+├── project.config.json
+├── tsconfig.json
+└── typings
+    ├── index.d.ts
+    └── types
+        ├── index.d.ts
+        └── wx

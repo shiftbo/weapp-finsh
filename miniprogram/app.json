@@ -1,0 +1,32 @@
+{
+  "entryPagePath":"pages/fish/index",
+  "pages": [
+    "pages/index/index",
+    "pages/fish/index",
+    "pages/logs/logs",
+    "pages/user/index"
+  ],
+  "tabBar": {
+    "list": [
+    {
+      "pagePath": "pages/fish/index",
+      "iconPath": "image/鱼.png",
+      "selectedIconPath": "image/鱼-selected.png"
+    },
+    {
+      "pagePath": "pages/user/index",
+      "iconPath": "image/用户.png",
+      "selectedIconPath": "image/用户-selected.png"
+    }
+    ]
+  },
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "鱼情",
+    "navigationBarTextStyle": "black"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json",
+  "debug":true
+}
